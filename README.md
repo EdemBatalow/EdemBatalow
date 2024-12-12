@@ -10,7 +10,7 @@ I am studying to be a programmer at the Crimean Engineering and Pedagogical Univ
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔥 Мои проекты:
-- **[Проект 1](https://github.com/EdemBatalow/music)
+- [Project](https://github.com/EdemBatalow/music)
 
 ### Follow me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id384359250)
@@ -18,4 +18,4 @@ I am studying to be a programmer at the Crimean Engineering and Pedagogical Univ
 
 ### GitHub Stats 📊
 ![Edem GitHub stats](https://github-readme-stats.vercel.app/api?username=EdemBatalow&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdemBatalow&layout=compact&theme=dark)
